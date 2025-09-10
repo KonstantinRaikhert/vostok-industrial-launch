@@ -25,11 +25,21 @@ const HeroSection = () => {
           </div>
           
           <div className="relative">
-            <img
-              src={heroEquipment}
-              alt="Промышленное оборудование ВОСТОК"
-              className="w-full h-auto rounded-lg shadow-2xl"
-            />
+            <video
+              autoPlay
+              muted
+              loop
+              playsInline
+              className="w-full h-auto rounded-lg shadow-2xl object-cover"
+              poster={heroEquipment}
+            >
+              <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
+              <img
+                src={heroEquipment}
+                alt="Промышленное оборудование ВОСТОК"
+                className="w-full h-auto rounded-lg"
+              />
+            </video>
             <div className="absolute inset-0 bg-gradient-to-t from-primary/50 to-transparent rounded-lg"></div>
           </div>
         </div>
