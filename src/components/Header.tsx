@@ -4,11 +4,12 @@ const Header = () => {
   return (
     <header className="bg-background border-b border-border">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="flex items-center space-x-2">
-          <div className="w-8 h-8 bg-primary rounded flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-sm">В</span>
-          </div>
-          <span className="text-xl font-bold text-foreground">ВОСТОК</span>
+        <div className="flex items-center space-x-3">
+          <img 
+            src="/lovable-uploads/d90a2f86-ccfc-4734-aa54-e7926b4d7cc5.png" 
+            alt="ВОСТОК - Логотип компании"
+            className="h-10 w-auto transition-all duration-300 hover:scale-105 filter brightness-110"
+          />
         </div>
         
         <nav className="hidden md:flex space-x-8">
