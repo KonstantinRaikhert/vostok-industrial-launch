@@ -66,15 +66,15 @@ const ContactForm = () => {
                 <div className="space-y-4">
                   <div>
                     <h4 className="font-semibold text-foreground">Адрес</h4>
-                    <p className="text-muted-foreground">г. Москва, ул. Промышленная, д. 15</p>
+                    <p className="text-muted-foreground">Г ИРКУТСК, УЛ МИРА, Д. 16</p>
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Телефон</h4>
-                    <p className="text-muted-foreground">+7 (495) 123-45-67</p>
+                    <p className="text-muted-foreground">+7 (916) 188-76-64</p>
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Email</h4>
-                    <p className="text-muted-foreground">info@vostok-industrial.ru</p>
+                    <p className="text-muted-foreground">info@vostk.su</p>
                   </div>
                 </div>
               </div>
