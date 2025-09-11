@@ -36,9 +36,12 @@ const Footer = () => {
           <div>
             <h3 className="font-bold mb-4">Контакты</h3>
             <div className="space-y-2 text-primary-foreground/80">
-              <p>+7 (495) 123-45-67</p>
-              <p>info@vostok-industrial.ru</p>
-              <p>г. Москва, ул. Промышленная, д. 15</p>
+              <p>Тел./факс: +7 (916) 188-76-64</p>
+              <p>Email: info@vostk.su</p>
+              <p>ОГРН 1243800014688</p>
+              <p>ИНН 3812162762</p>
+              <p>Генеральный Директор: Пыжьянов Василий Сергеевич</p>
+              <p>664002, ИРКУТСКАЯ ОБЛАСТЬ, Г ИРКУТСК, УЛ МИРА, Д. 16</p>
             </div>
           </div>
         </div>
