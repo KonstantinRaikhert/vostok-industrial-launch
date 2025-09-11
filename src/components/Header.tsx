@@ -6,9 +6,9 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-3">
           <img 
-            src="/lovable-uploads/d90a2f86-ccfc-4734-aa54-e7926b4d7cc5.png" 
+            src="/lovable-uploads/7a733e84-b2b2-44bb-96c3-9c4fcfcf305e.png" 
             alt="ВОСТОК - Логотип компании"
-            className="h-10 w-auto transition-all duration-300 hover:scale-105 filter brightness-110"
+            className="h-12 w-auto transition-all duration-300 hover:scale-105"
           />
         </div>
         
