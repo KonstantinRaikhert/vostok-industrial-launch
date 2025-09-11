@@ -31,9 +31,9 @@ const HeroSection = () => {
               loop
               playsInline
               className="w-full h-48 sm:h-64 md:h-80 lg:h-auto rounded-lg shadow-2xl object-cover"
-              poster={heroEquipment}
+              poster="https://assets.mixkit.co/videos/34741/34741-thumb-720-0.jpg"
             >
-              <source src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" type="video/mp4" />
+              <source src="https://assets.mixkit.co/videos/34741/34741-720.mp4" type="video/mp4" />
               <img
                 src={heroEquipment}
                 alt="Промышленное оборудование ВОСТОК"
