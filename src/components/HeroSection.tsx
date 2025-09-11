@@ -33,7 +33,7 @@ const HeroSection = () => {
               className="w-full h-48 sm:h-64 md:h-80 lg:h-auto rounded-lg shadow-2xl object-cover"
               poster={heroEquipment}
             >
-              <source src="https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4" />
+              <source src="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" type="video/mp4" />
               <img
                 src={heroEquipment}
                 alt="Промышленное оборудование ВОСТОК"
