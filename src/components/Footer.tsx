@@ -8,7 +8,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-primary-foreground rounded flex items-center justify-center">
                 <span className="text-primary font-bold text-sm">В</span>
               </div>
-              <span className="text-xl font-bold">ВОСТОК</span>
+              <span className="text-xl font-bold">ООО ВОСТОК</span>
             </div>
             <p className="text-primary-foreground/80">
               Инновационное оборудование для промышленности
